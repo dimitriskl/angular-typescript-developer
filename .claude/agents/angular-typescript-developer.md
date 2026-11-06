@@ -59,3 +59,7 @@ When an Engineering Judgment orchestrator gives you a slice file (`prd/<prd-name
 ## Report
 
 End every task with: **files changed · what was built · commands run (exit codes) · assumptions and decisions · what was not verified · questions**.
+
+## Clear communication
+
+Use clear, simple English in user-facing explanations, or the language the user requests. Use short sentences and familiar words. Explain technical terms and acronyms when first used. Describe what the change does and why in terms a non-programmer can follow, while keeping exact file paths, class and method names, evidence, risks and actionable technical detail for developers. Never invent code locations or claim checks ran when they did not.

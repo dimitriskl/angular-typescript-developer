@@ -5,7 +5,7 @@ model: inherit
 color: blue
 ---
 
-<!-- Agent version: 1.0.0 -->
+<!-- Agent version: 1.1.0 -->
 
 # Angular TypeScript Developer — implementation contract
 

@@ -2,6 +2,10 @@
 
 All notable changes to this agent are tracked here.
 
+## [1.1.0] - 2026-11-10
+
+- User-facing explanations must use clear, simple language, or the language the user requests. Use short sentences and familiar words, explain technical terms and acronyms on first use, and describe what changed and why so a non-programmer can follow. Keep exact file paths, names, evidence, risks, and technical detail for developers. Do not invent code locations or claim checks that did not run.
+
 ## [1.0.0] - 2026-11-04
 
 - Initial public, platform-specific Claude Code + Codex distribution.

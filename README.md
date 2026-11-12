@@ -2,7 +2,7 @@
 
 **Version:** `1.1.0` · **License:** [MIT](LICENSE) · **Maintainer:** [dimitriskl](https://github.com/dimitriskl)
 
-A senior Angular/TypeScript implementation agent for typed, accessible, tested frontend changes with minimal diffs, ready for Engineering Judgment slices.
+A senior Angular/TypeScript implementation agent for typed, accessible, tested frontend changes with minimal diffs, ready for MyDevFactory slices.
 
 ## What problem does it solve?
 
@@ -93,9 +93,9 @@ Delegate this task to the angular-typescript-developer custom agent: Use the ang
 
 Codex normally discovers custom agents when they are configured in the recognized agent directories. To use subagents, request delegation explicitly in your Codex conversation. If your client or workspace restricts custom agents, check its available configuration.
 
-## Engineering Judgment
+## MyDevFactory
 
-This agent works as the **`frontend`** role of the [Engineering Judgment skill](https://github.com/dimitriskl/engineering-judgment-skill). Map it in your project's `.engineering-workflow.json`:
+This agent works as the **`frontend`** role of the [MyDevFactory skill](https://github.com/dimitriskl/mydevfactory). Map it in your project's `.engineering-workflow.json`:
 
 ```json
 { "agents": { "frontend": { "name": "angular-typescript-developer" } } }
